@@ -4,6 +4,8 @@ Simple shader like ASCII image generator, also generates plain text ASCII output
 
 ![ascii dog](https://raw.githubusercontent.com/0xjluis/Ascii-imgs/main/public/download.png)
 
+
+```
 uzcnnuzCZObkLzYYUC0qdbbbhkao8@$%&&8888%%$Bopo$$$$#
 xvvucYUJJLQpmCXXzXYJQZwdbhkbM@$%&&&8888%$B#$$$$$oq
 |/ttfncUJJ0QOZQ0CUJUYJLOwZCQO*@8MWW&&&8%$%W$$$$$&8
@@ -54,3 +56,5 @@ WMWdu{_---?[}}{)(|/(||1)()trxccxjjruvvxjrxrjrrrnun
 ))((||)1{{{{11)))1()11)((||jxccXuuj/|//tttfrjf//tt
 ((11{11{11{}{{1{1)))()(||/|//ffrffttfffttjft//tjft
 1{}{11{{}}{1))()1111(())(|||((|/tt/tt//jrjrrxrrrrr
+
+```
